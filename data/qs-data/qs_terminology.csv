@@ -1,0 +1,130 @@
+Term,CorrectSpelling,CommonMisspellings,Category,Definition,StandardUnit,RegionalVariants,RelatedTerms
+Concrete,Concrete,"concret,concete,conrete",Material,Composite material made of cement aggregate and water,M³,Concrete (US/UK),Cement;Aggregate;Mix
+Reinforcement,Reinforcement,"reinforcment,renforcement,reinforcemnt",Material,Steel bars or mesh embedded in concrete,TONNE,Rebar (US);Reinforcing (AU),Steel;Rebar;Mesh
+Excavation,Excavation,"excavtion,excation,excavaion",Method,Process of removing earth or rock,M³,Earthwork (UK);Dig (Informal),Earth;Soil;Digging
+Formwork,Formwork,"formwrk,form work,formwoork",Material,Temporary mold for concrete,M²,Shuttering (UK);Forms (US),Shuttering;Mold;Falsework
+Scaffolding,Scaffolding,"scafolding,scaffoldig,scaffoding",Equipment,Temporary structure for worker access,M² or M,Scaffold (Short),Access;Platform;Staging
+Steel,Steel,"stell,stel,steele",Material,Structural metal alloy,TONNE,Steel (Universal),Metal;Iron;Beam
+Foundation,Foundation,"fondation,foundtion,fundation",Structure,Base structure supporting building,M³,Footing (US);Base,Footing;Base;Substructure
+Masonry,Masonry,"masonary,massonery,masonery",Method,Building with brick or stone,M² or M³,Brickwork (UK),Brick;Block;Stone
+Plastering,Plastering,"plastring,plasterng,plstering",Method,Application of plaster finish,M²,Rendering (UK);Stucco (US),Plaster;Render;Finish
+Painting,Painting,"paintng,paintig,paiting",Method,Application of paint coating,M²,Coating (Formal),Paint;Coat;Finish
+Plumbing,Plumbing,"plumbng,plumbing,plubming",Trade,Installation of water systems,M or NO,Pipework (UK),Pipe;Water;Drainage
+Electrical,Electrical,"electrial,electricl,eletrical",Trade,Installation of electrical systems,M or NO,Wiring (Informal),Wire;Cable;Power
+Waterproofing,Waterproofing,"waterproofng,water proofing,waterproffing",Method,Treatment to prevent water penetration,M²,Damp-proofing (UK),Membrane;Sealant;Protection
+Insulation,Insulation,"insultion,insualtion,insulaton",Material,Material to reduce heat transfer,M² or M³,Lagging (UK/Pipes),Thermal;Acoustic;Barrier
+Drainage,Drainage,"drainag,drainge,dranaige",System,System for water removal,M,Storm water (AU);Surface water (UK),Drain;Gutter;Sewer
+Roofing,Roofing,"roofng,roofig,roofin",Structure,Covering for top of building,M²,Roof covering (Formal),Roof;Tile;Sheet
+Flooring,Flooring,"floring,floorng,florring",Finish,Floor surface material,M²,Floor finish (Formal),Floor;Tile;Carpet
+Carpentry,Carpentry,"carpentary,carpentrey,carpentri",Trade,Woodwork construction,M² or NO,Joinery (UK),Wood;Timber;Joinery
+Demolition,Demolition,"demolision,demoliton,demolation",Method,Destruction of structures,M³,Breaking down (Informal),Break;Remove;Dismantle
+Earthwork,Earthwork,"earth work,erthwork,earthwrk",Method,Movement and placement of soil,M³,Excavation (General),Earth;Fill;Grading
+Compaction,Compaction,"compction,compacton,compaction",Method,Densification of soil or material,M² or M³,Rolling (Informal),Compact;Dense;Consolidate
+Backfill,Backfill,"back fill,backfil,bakfill",Method,Refilling of excavated areas,M³,Filling (UK),Fill;Replace;Restore
+Substructure,Substructure,"sub structure,substrucure,substrcture",Structure,Below-ground portion of building,M³,Foundation (General),Foundation;Base;Underground
+Superstructure,Superstructure,"super structure,superstrucure,superstrcture",Structure,Above-ground portion of building,M³,Structure (General),Frame;Building;Above-ground
+Column,Column,"collumn,colum,coloumn",Structure,Vertical structural support member,NO or M³,Pillar (Formal),Pillar;Post;Support
+Beam,Beam,"beem,bem,beamm",Structure,Horizontal structural member,NO or M³,Lintel (UK/Small),Lintel;Girder;Member
+Slab,Slab,"slabb,salb,slb",Structure,Horizontal concrete structural element,M² or M³,Deck (US),Deck;Floor;Platform
+Wall,Wall,"wal,wwall,wll",Structure,Vertical enclosing element,M²,Partition (Interior),Partition;Panel;Barrier
+Ceiling,Ceiling,"cieling,ceilling,celing",Finish,Overhead interior surface,M²,Soffit (UK/Underside),Soffit;Overhead;Lining
+Window,Window,"windw,winow,windwo",Element,Opening with glazing for light,NO,Fenestration (Formal),Glass;Glazing;Opening
+Door,Door,"dor,dooor,dore",Element,Hinged barrier for entry,NO,Doorway (Opening),Entry;Access;Portal
+Glazing,Glazing,"glazig,glazzing,glaizing",Material,Glass installation,M²,Glass (Informal),Glass;Window;Panel
+Tile,Tile,"tiel,til,tilee",Material,Flat covering piece,M²,Tiling (Process),Ceramic;Porcelain;Stone
+Cladding,Cladding,"clading,claddig,claddng",Finish,Exterior covering material,M²,Siding (US);Facing (UK),Facing;Skin;Covering
+Gypsum,Gypsum,"gypsom,gypsm,gipsum",Material,Plaster material,M² or TONNE,Plasterboard (UK);Drywall (US),Plaster;Board;Sheet
+Aggregate,Aggregate,"agreggate,agregrate,agrregate",Material,Granular material in concrete,M³ or TONNE,Ballast (UK),Stone;Gravel;Sand
+Cement,Cement,"cment,cemnt,cemnent",Material,Binding powder in concrete,TONNE,Portland cement (Type),Binder;Powder;OPC
+Mortar,Mortar,"morter,motar,mortarr",Material,Paste for binding masonry,M³,Grout (Related),Grout;Mix;Binder
+Grout,Grout,"graut,grout,groute",Material,Fluid filler material,M³ or LITRE,Grouting (Process),Fill;Mortar;Paste
+Primer,Primer,"primmer,prmer,primr",Material,Preparatory coating,LITRE or M²,Undercoat (UK),Sealer;Base;Coat
+Sealer,Sealer,"sealer,seler,sealr",Material,Protective coating,LITRE or M²,Sealant (Similar),Seal;Coat;Protect
+Membrane,Membrane,"membrain,membran,mebrane",Material,Thin barrier sheet,M²,Sheet (Informal),Sheet;Barrier;Layer
+Asphalt,Asphalt,"aspalt,asphault,asfalt",Material,Bituminous paving material,M² or TONNE,Bitumen (UK);Tarmac (Informal),Bitumen;Paving;Surface
+Geotextile,Geotextile,"geotextil,geo textile,geotextille",Material,Synthetic fabric for soil,M²,Fabric (Informal),Fabric;Filter;Separator
+Rebar,Rebar,"re bar,rbar,rebbar",Material,Reinforcing steel bars,TONNE or NO,Reinforcement (Formal),Reinforcement;Bar;Steel
+Mesh,Mesh,"msh,messh,meesh",Material,Steel wire fabric,M² or TONNE,Wire mesh (Full),Wire;Fabric;Net
+Anchor,Anchor,"ancher,ancor,anchour",Element,Fastening device,NO,Bolt (Similar),Bolt;Fastener;Fix
+Bolt,Bolt,"bolt,blt,boolt",Element,Threaded fastener,NO,Screw (Similar),Fastener;Anchor;Fix
+Weld,Weld,"weld,wel,weldd",Method,Join metals by heat,M,Welding (Process),Join;Fuse;Connect
+Joint,Joint,,"Element,Connection point,M or NO,Connection (Formal),Connection;Seam;Interface
+Expansion Joint,Expansion Joint,expansion jnt;expnsion joint,Element,Joint allowing movement,M or NO,Movement joint (UK),Movement;Gap;Separator
+Control Joint,Control Joint,control jnt;contrl joint,Element,Joint controlling cracking,M or NO,Contraction joint (Alt),Crack control;Gap;Cut
+Sealant,Sealant,sealent;selant;sealnt,Material,Joint filler material,LITRE or M,Caulk (US);Mastic (UK),Caulk;Mastic;Filler
+Fascia,Fascia,facia;fasia;facsia,Element,Horizontal board at roof edge,M,Facia board (Alt),Board;Trim;Edge
+Soffit,Soffit,sofit;soffitt;soffet,Element,Underside of overhang,M²,Eave lining (Descriptive),Eave;Underside;Ceiling
+Gutter,Gutter,guter;guttr;gutter,Element,Roof drainage channel,M,Eaves gutter (UK),Channel;Drain;Trough
+Downpipe,Downpipe,down pipe;downpipe;downpip,Element,Vertical drainage pipe,M or NO,Downspout (US);Leader (US),Drain;Pipe;Spout
+Flashing,Flashing,flashng;flasing;flashhing,Material,Waterproof material at joints,M,Sheet metal (Material),Sheet;Metal;Seal
+Ridge,Ridge,rige;ridg;rdge,Element,Top edge of roof,M,Ridge line (Descriptive),Peak;Top;Crest
+Eave,Eave,eve;eav;eaves,Element,Lower edge of roof,M,Eaves (Plural),Edge;Overhang;Projection
+Valley,Valley,valey;vally,Element,Internal roof angle,M,Valley gutter (With drainage),Gutter;Angle;Depression
+Truss,Truss,trus;trusse;trruss,Structure,Triangulated structural frame,NO,Roof truss (Specific),Frame;Structure;Support
+Purlin,Purlin,purline;purrlin;purlen,Structure,Horizontal roof support,M or NO,Roof beam (General),Beam;Support;Member
+Rafter,Rafter,raftr;raffter;rafteer,Structure,Sloped roof framing member,M or NO,Roof timber (Material),Timber;Beam;Slope
+Joist,Joist,jost;jooist;joiste,Structure,Horizontal floor framing,M or NO,Floor beam (General),Beam;Support;Member
+Stud,Stud,studd;stud;sud,Structure,Vertical wall framing,M or NO,Wall stud (Specific),Vertical;Frame;Member
+Plate,Plate,plat;plaate;plte,Structure,Horizontal framing member,M or NO,Wall plate (Specific),Timber;Beam;Base
+Lintel,Lintel,lintle;lintl;lintell,Structure,Beam over opening,NO or M,Header (US),Beam;Support;Opening
+Sill,Sill,sil;silll;sile,Element,Horizontal base of opening,M or NO,Cill (UK Alt),Base;Threshold;Bottom
+Threshold,Threshold,threshhold;treshold;thresold,Element,Bottom of doorway,NO,Sill (Similar),Sill;Entry;Base
+Damp Proof Course,Damp Proof Course,DPC;damp proof course;damproofcourse,Material,Horizontal moisture barrier,M,DPC (Abbrev),Membrane;Barrier;Moisture
+Damp Proof Membrane,Damp Proof Membrane,DPM;damp proof membrane;damproofmembrane,Material,Sheet moisture barrier,M²,DPM (Abbrev),Membrane;Sheet;Moisture
+Cavity Wall,Cavity Wall,cavity wal;cavitywall,Structure,Double-leaf wall with gap,M²,Hollow wall (Descriptive),Wall;Double;Insulated
+Retaining Wall,Retaining Wall,retaning wall;retainwall,Structure,Wall holding back earth,M² or M³,Retention wall (Alt),Wall;Earth;Support
+Parapet,Parapet,parapet;parappet;parapett,Structure,Low wall at roof edge,M,Parapet wall (Full),Wall;Edge;Safety
+Balustrade,Balustrade,balustrad;ballustrade;balusrade,Element,Railing with balusters,M,Railing (US);Guard rail,Rail;Guard;Safety
+Handrail,Handrail,hand rail;handrail;handrail,Element,Rail for grasping,M,Grab rail (Specific),Rail;Support;Safety
+Baluster,Baluster,balluster;balustre;balster,Element,Vertical railing support,NO,Spindle (Informal),Spindle;Post;Vertical
+Newel,Newel,newl;newel post;newel,Element,Main railing post,NO,Newel post (Full),Post;Support;Stair
+Tread,Tread,tred;treads;traed,Element,Horizontal step surface,M or NO,Step (Informal),Step;Stair;Walking surface
+Riser,Riser,risser;riser;risr,Element,Vertical step face,M or NO,Step riser (Full),Step;Vertical;Face
+Stringer,Stringer,strigner;stringr,Structure,Sloped stair support,M or NO,Stair stringer (Full),Support;Beam;Carriage
+Landing,Landing,landng;landding,Element,Intermediate stair platform,M² or NO,Platform (General),Platform;Rest;Level
+Nosing,Nosing,noseing;nozing,Element,Projecting step edge,M or NO,Step nosing (Full),Edge;Projection;Trim
+Balcony,Balcony,balconey;balkony,Element,Exterior elevated platform,M² or NO,Veranda (Different),Platform;Deck;Terrace
+Cornice,Cornice,cornise;cornis;cornicce,Finish,Decorative molding at ceiling,M,Coving (UK),Molding;Trim;Decoration
+Architrave,Architrave,architrav;architraive,Finish,Molding around opening,M,Trim (US);Casing (US),Trim;Molding;Frame
+Skirting,Skirting,skirting board;skirtng,Finish,Baseboard at wall base,M,Baseboard (US);Skirting board,Baseboard;Trim;Base
+Coving,Coving,coveing;covving,Finish,Curved ceiling junction,M,Cove (Short);Cornice (Similar),Cove;Molding;Curve
+Dado,Dado,dardo;daddo,Finish,Lower wall paneling,M² or M,Wainscot (US);Chair rail,Panel;Wainscot;Protection
+Paneling,Paneling,panelling;paneling;panling,Finish,Wall covering boards,M²,Wainscoting (US);Cladding,Panel;Board;Lining
+Molding,Molding,moulding;molding;moldig,Finish,Decorative trim profile,M,Moulding (UK),Trim;Profile;Decoration
+Brickwork,Brickwork,brick work;brickwrk,Method,Construction with bricks,M² or M³,Masonry (General),Brick;Masonry;Wall
+Blockwork,Blockwork,block work;blockwrk,Method,Construction with blocks,M² or M³,Masonry (General),Block;Masonry;Wall
+Stonework,Stonework,stone work;stonewrk,Method,Construction with stone,M² or M³,Masonry (General),Stone;Masonry;Wall
+Coursing,Coursing,corsing;coarsing,Method,Horizontal brick laying,M²,Course (Singular),Layer;Row;Level
+Bond,Bond,bnd;bondd,Method,Brick laying pattern,M²,Brickwork bond (Full),Pattern;Connection;Tie
+Pointing,Pointing,pointng;pointig,Method,Finishing mortar joints,M²,Jointing (UK),Joint;Finish;Mortar
+Rendering,Rendering,rendring;renderng,Method,External wall plastering,M²,Stucco (US);Cement render,Render;Plaster;Coating
+Screeding,Screeding,scredding;screeding,Method,Leveling floor surface,M²,Screed (Noun),Screed;Level;Base
+Tiling,Tiling,tileing;tilling,Method,Installing tiles,M²,Tile laying (Descriptive),Tile;Install;Fix
+Grouting,Grouting,grouting;grouting,Method,Filling tile joints,M²,Grout (Noun),Grout;Fill;Joint
+Curing,Curing,curring;cuing,Method,Concrete hardening process,M²,Concrete curing (Full),Harden;Cure;Protect
+Vibration,Vibration,vibration;vibraton,Method,Concrete compaction,M³,Compacting (General),Compact;Consolidate,Settle
+Finishing,Finishing,finishng;finishing,Method,Final surface treatment,M²,Finish (Noun),Finish;Surface;Complete
+Falsework,Falsework,false work;falsewrk,Structure,Temporary support structure,M² or NO,Temporary works (General),Support;Temporary;Shoring
+Shoring,Shoring,shorring;shoring,Method,Temporary structural support,M² or NO,Propping (UK),Support;Prop;Brace
+Underpinning,Underpinning,under pinning;underpining,Method,Foundation strengthening,M or M³,Foundation repair (Descriptive),Foundation;Strengthen;Support
+Piling,Piling,pilling;pileing,Method,Deep foundation installation,M or NO,Pile driving (Process),Pile;Foundation;Deep
+Pile,Pile,piel;pil;pille,Structure,Deep foundation element,NO or M,Foundation pile (Full),Foundation;Column;Deep
+Caisson,Caisson,caison;caisson;caissson,Structure,Watertight foundation chamber,NO or M³,Cofferdam (Similar),Foundation;Chamber;Deep
+Cofferdam,Cofferdam,coffer dam;cofferdam,Structure,Temporary water barrier,M² or NO,Enclosure (General),Barrier;Water;Temporary
+Dewatering,Dewatering,de watering;dewatring,Method,Water removal from site,M³,Pumping (Informal),Pump;Water;Remove
+Grading,Grading,gradding;grading,Method,Land surface leveling,M²,Leveling (General),Level;Grade;Surface
+Leveling,Leveling,levelling;leveling,Method,Making surface level,M²,Grading (Similar),Level;Grade;Flat
+Surveying,Surveying,survayin;surveying,Method,Land measurement,M² or NO,Survey (Noun),Measure;Layout;Mark
+Setting Out,Setting Out,settingout;setting-out,Method,Marking construction positions,M² or NO,Layout (US),Layout;Mark;Position
+Testing,Testing,testng;testin,Method,Quality verification,NO,Test (Noun),Verify;Check;Inspect
+Inspection,Inspection,inspction;inspecton,Method,Quality examination,NO,Inspect (Verb),Examine;Check;Review
+Commissioning,Commissioning,commisioning;commissionig,Method,System startup testing,NO,Commission (Verb),Test;Startup;Verify
+Handover,Handover,hand over;handovr,Method,Project completion transfer,NO,Completion (General),Transfer;Complete;Deliver
+Defect,Defect,defct;deffect,Issue,Construction fault,NO,Snag (UK);Punch item (US),Fault;Error;Problem
+Snagging,Snagging,snaging;snaggng,Method,Defect identification,NO,Punch list (US),Defect;List;Completion
+Remedial,Remedial,remedial;remedail,Category,Corrective work,Various,Repair (Informal),Repair;Correct;Fix
+Variation,Variation,varition;variaton,Contract,Change to contract work,NO,Change order (US);VO,Change;Amendment;Alteration
+Daywork,Daywork,day work;daywrk,Contract,Work charged by time,NO or DAY,Day rate (Descriptive),Time;Rate;Charge
+Provisional Sum,Provisional Sum,provisional sum;prov sum,Contract,Estimated allowance,Currency,Prime cost (PC),Allowance;Estimate;Contingency
+Prime Cost,Prime Cost,prime cost;PC,Contract,Supplier cost allowance,Currency,PC sum (Abbrev),Allowance;Supply;Cost
+Nominated,Nominated,nomiated;nominatd,Contract,Selected by client,NO,Named (UK),Selected;Specified;Chosen

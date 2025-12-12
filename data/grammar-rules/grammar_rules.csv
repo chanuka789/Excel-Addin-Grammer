@@ -1,0 +1,18 @@
+RuleID,Pattern,Replacement,Severity,Category,Description
+DOUBLE_SPACE,"  "," ",Warning,Spacing,Multiple consecutive spaces should be single space
+SPACE_BEFORE_PERIOD, .,.,Warning,Punctuation,No space should appear before a period
+SPACE_BEFORE_COMMA,", ",",",Warning,Punctuation,No space should appear before a comma
+SPACE_BEFORE_SEMICOLON, ;,;,Warning,Punctuation,No space should appear before a semicolon
+SPACE_BEFORE_COLON, :,:,Warning,Punctuation,No space should appear before a colon
+TRIPLE_SPACE,"   "," ",Warning,Spacing,Multiple consecutive spaces should be single space
+TAB_SPACE,"	 "," ",Warning,Spacing,Tab followed by space should be normalized
+SPACE_TAB," 	"," ",Warning,Spacing,Space followed by tab should be normalized
+LOWERCASE_SENTENCE_START,". [a-z]",". [A-Z]",Info,Capitalization,Sentence should start with capital letter
+NO_SPACE_AFTER_COMMA,",[^ ]",", ",Warning,Punctuation,Missing space after comma
+NO_SPACE_AFTER_PERIOD,".[A-Za-z]",". ",Warning,Punctuation,Missing space after period
+NO_SPACE_AFTER_SEMICOLON,",[^ ]","; ",Warning,Punctuation,Missing space after semicolon
+MULTIPLE_EXCLAMATION,!!,!,Info,Punctuation,Multiple exclamation marks
+MULTIPLE_QUESTION,??,?,Info,Punctuation,Multiple question marks
+SPACE_BEFORE_APOSTROPHE," '","'",Warning,Punctuation,No space before apostrophe
+TRAILING_SPACE_EOL," $","",Warning,Spacing,Trailing space at end of line
+LEADING_SPACE_BOL,"^ "," ",Warning,Spacing,Leading space at beginning of line
