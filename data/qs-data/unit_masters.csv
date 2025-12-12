@@ -1,0 +1,43 @@
+UnitCode,UnitName,ApplicableItems,ConversionFactor,Precision,CommonMisspellings
+M,Meter,Linear measurement;Pipes;Beams;Columns,1,2,m;mtr;meter;metre
+M²,Square Meter,Areas;Flooring;Walls;Ceilings;Roofing,1,2,m2;sqm;sq.m;square meter;square metre
+M³,Cubic Meter,Volumes;Concrete;Excavation;Fill,1,3,m3;cum;cu.m;cubic meter;cubic metre
+NO,Number,Countable items;Doors;Windows;Fittings,1,0,no.;nos;number;nr;each
+NO.,Number,Countable items;Doors;Windows;Fittings,1,0,no;nos;number;nr;each
+KG,Kilogram,Weight;Small materials;Fasteners,1,2,kg;kilo;kilogram
+TONNE,Tonne,Weight;Steel;Reinforcement;Aggregates,1000,3,ton;tonne;t;mt;metric ton
+LITRE,Litre,Volume;Liquids;Paints;Sealants,1,2,l;ltr;litre;liter
+L,Litre,Volume;Liquids;Paints;Sealants,1,2,ltr;litre;liter
+SQ.FT,Square Foot,Areas (Imperial),0.0929,2,sqft;sq ft;square feet;sq.feet
+CU.FT,Cubic Foot,Volumes (Imperial),0.0283,3,cuft;cu ft;cubic feet;cu.feet
+SQFT,Square Foot,Areas (Imperial),0.0929,2,sq.ft;sq ft;square feet;sq.feet
+CUFT,Cubic Foot,Volumes (Imperial),0.0283,3,cu.ft;cu ft;cubic feet;cu.feet
+SQM,Square Meter,Areas,1,2,sq.m;m²;m2;square meter
+CUM,Cubic Meter,Volumes,1,3,cu.m;m³;m3;cubic meter
+RM,Running Meter,Linear;Continuous items,1,2,r.m;running meter;running metre;lin.m
+LM,Linear Meter,Linear;Continuous items,1,2,l.m;linear meter;linear metre;lin.m
+SM,Square Meter,Areas,1,2,s.m;square meter;square metre;m²
+PAIR,Pair,Paired items;Doors;Windows,1,0,pr;pairs;prs
+SET,Set,Item sets;Fittings;Systems,1,0,st;sets
+LOT,Lot,Multiple items,1,0,lots;lts
+ITEM,Item,Single complete item,1,0,itm;items;ea
+SUM,Sum,Provisional sums,1,2,sums;lump sum
+LS,Lump Sum,Complete scope item,1,0,l.s;lump sum;sum
+DAY,Day,Time-based work,1,0,days;dy;d
+HOUR,Hour,Time-based work;Equipment,1,2,hr;hrs;hours;h
+WEEK,Week,Time-based work;Equipment,1,0,wk;wks;weeks;w
+MONTH,Month,Time-based work;Rentals,1,0,mth;mnth;months;mo
+M RUN,Meter Run,Linear measurement,1,2,m run;meter run;metre run;running meter
+SQ.M,Square Meter,Areas,1,2,sqm;m²;m2;square meter;square metre
+CU.M,Cubic Meter,Volumes,1,3,cum;m³;m3;cubic meter;cubic metre
+TON,Ton,Weight (Imperial),1016.05,3,tons;imperial ton
+MT,Metric Tonne,Weight,1000,3,m.t;metric ton;tonne;t
+BAG,Bag,Cement;Materials,50,0,bags;sack;sacks
+PKT,Packet,Small quantities,1,0,packet;packets;pack
+BOX,Box,Packaged items,1,0,boxes;bx
+ROLL,Roll,Sheet materials;Membranes,1,0,rolls;rl
+SHEET,Sheet,Panel materials,1,0,sheets;sht;no.
+PANEL,Panel,Panels;Boards,1,0,panels;pnl;no.
+LENGTH,Length,Standard lengths,1,0,lengths;lgth;no.
+JOINT,Joint,Connections;Welds,1,0,joints;jnt;no.
+POINT,Point,Electrical outlets;Lights,1,0,points;pt;no.

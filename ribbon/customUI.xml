@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_OnLoad">
+  <ribbon>
+    <tabs>
+      <!-- Custom Tab for Grammar & QS Checker -->
+      <tab id="tabGrammarQS" label="Grammar &amp; QS" insertAfterMso="TabHome">
+
+        <!-- Spelling & Grammar Group -->
+        <group id="grpSpellingGrammar" label="Spelling &amp; Grammar">
+
+          <!-- Check Now Button (Primary) -->
+          <button id="btnCheckNow"
+                  label="Check Now"
+                  size="large"
+                  imageMso="Spelling"
+                  onAction="CheckNow_Click"
+                  screentip="Check Spelling &amp; Grammar"
+                  supertip="Scan selected cells or entire worksheet for spelling and grammar errors."/>
+
+          <!-- Split Button for Options -->
+          <menu id="mnuCheckOptions"
+                label="Check Options"
+                size="large"
+                imageMso="ControlPropertiesDialog">
+            <button id="btnCheckSpelling"
+                    label="Check Spelling Only"
+                    imageMso="Spelling"
+                    onAction="CheckSpelling_Click"
+                    screentip="Spelling Check Only"/>
+            <button id="btnCheckGrammar"
+                    label="Check Grammar Only"
+                    imageMso="ReviewCheckAccessibility"
+                    onAction="CheckGrammar_Click"
+                    screentip="Grammar Check Only"/>
+            <menuSeparator id="sep1"/>
+            <button id="btnCheckAll"
+                    label="Check All (Spelling + Grammar)"
+                    imageMso="Spelling"
+                    onAction="CheckNow_Click"
+                    screentip="Check Both Spelling and Grammar"/>
+          </menu>
+
+          <!-- Settings Button -->
+          <button id="btnSettings"
+                  label="Settings"
+                  imageMso="AddinManagerClassic"
+                  onAction="ShowSettings_Click"
+                  screentip="Add-in Settings"
+                  supertip="Configure spelling, grammar, and QS validation options."/>
+        </group>
+
+        <!-- QS Validation Group -->
+        <group id="grpQSValidation" label="QS / BOQ Analysis">
+
+          <!-- Validate BOQ Button -->
+          <button id="btnValidateBOQ"
+                  label="Validate BOQ"
+                  size="large"
+                  imageMso="DatabaseAnalyzeTable"
+                  onAction="CheckQS_Click"
+                  screentip="Validate Bill of Quantities"
+                  supertip="Perform comprehensive QS validation: check units, costs, descriptions, and calculations."/>
+
+          <!-- QS Options Menu -->
+          <menu id="mnuQSOptions"
+                label="QS Options"
+                size="large"
+                imageMso="RecordsMenu">
+            <button id="btnQuickCheck"
+                    label="Quick Check (Missing Data)"
+                    imageMso="DatabaseValidationRules"
+                    screentip="Fast check for missing quantities, rates, and units"/>
+            <button id="btnCostAnalysis"
+                    label="Cost Analysis"
+                    imageMso="ChartInsert"
+                    screentip="Analyze rates and detect cost anomalies"/>
+            <button id="btnUnitValidation"
+                    label="Unit Validation"
+                    imageMso="FieldListMoveUp"
+                    screentip="Validate and standardize units of measurement"/>
+            <button id="btnDescriptionCheck"
+                    label="Description Standardization"
+                    imageMso="TextFormattingReadingHighlighter"
+                    screentip="Check BOQ descriptions for completeness and duplicates"/>
+            <menuSeparator id="sep2"/>
+            <button id="btnFIDICValidation"
+                    label="FIDIC Clause Validation"
+                    imageMso="ReviewTrackChangesOptionsWord"
+                    screentip="Validate FIDIC 1999 clause references"/>
+          </menu>
+
+          <!-- QS Settings -->
+          <button id="btnQSSettings"
+                  label="QS Settings"
+                  imageMso="DatabaseProperties"
+                  screentip="QS Validation Settings"
+                  supertip="Configure QS thresholds, units, and validation rules."/>
+        </group>
+
+        <!-- Help & About Group -->
+        <group id="grpHelp" label="Help">
+          <button id="btnHelp"
+                  label="Help"
+                  imageMso="Help"
+                  onAction="ShowHelp_Click"
+                  screentip="Help &amp; Documentation"/>
+          <button id="btnAbout"
+                  label="About"
+                  imageMso="Info"
+                  screentip="About this Add-in"
+                  supertip="Version information and credits"/>
+        </group>
+
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>

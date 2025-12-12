@@ -1,0 +1,176 @@
+ClauseNumber,ClauseTitle,Requirements,RelatedClauses,PaymentRelated,TimelineRelated
+1.1,Definitions,Defines key terms used in contract,All,No,No
+1.2,Interpretation,Rules for interpreting contract,All,No,No
+1.3,Communications,Requirements for official communications,All,No,Yes
+1.4,Law and Language,Governing law and contract language,1.5,No,No
+1.5,Priority of Documents,Order of precedence for contract documents,1.4,No,No
+1.6,Contract Agreement,Execution of formal agreement,1.9,Yes,Yes
+1.7,Assignment,Restrictions on assignment,All,No,No
+1.8,Care and Supply of Documents,Document handling requirements,1.6,No,No
+1.9,Delayed Drawings or Instructions,Contractor's entitlement for delays,8.4,Yes,Yes
+1.10,Employer's Use,Employer's rights to use contractor's documents,1.8,No,No
+1.11,Contractor's Use,Contractor's rights to use documents,1.8,No,No
+1.12,Confidential Details,Protection of confidential information,1.8,No,No
+1.13,Compliance with Laws,Obligation to comply with laws,1.14,No,No
+1.14,Joint and Several Liability,Liability of joint contractors,1.13,Yes,No
+2.1,Right of Access,Contractor's right to access site,8.1,No,Yes
+2.2,Permits Licenses or Approvals,Obtaining necessary permits,1.13,Yes,Yes
+2.3,Employer's Personnel,Employer's staff and representatives,3.1,No,No
+2.4,Employer's Financial Arrangements,Proof of financial capability,14.2,Yes,No
+2.5,Employer's Claims,Process for employer claims,20.1,Yes,No
+3.1,Engineer's Duties and Authority,Engineer's role and powers,3.2;3.3,No,No
+3.2,Delegation by the Engineer,Engineer's delegation authority,3.1,No,No
+3.3,Instructions of the Engineer,Requirement to follow engineer's instructions,3.1,No,Yes
+3.4,Replacement of the Engineer,Procedure for replacing engineer,3.1,No,No
+3.5,Determinations,Engineer's binding determinations,3.1,Yes,No
+4.1,Contractor's General Obligations,Overall contractor responsibilities,All,No,No
+4.2,Performance Security,Provision of performance bond,4.1,Yes,No
+4.3,Contractor's Representative,Appointment of site representative,4.1,No,No
+4.4,Subcontractors,Use and approval of subcontractors,4.1,No,No
+4.5,Assignment of Subcontractor's Obligations,Subcontractor assignment,4.4,No,No
+4.6,Co-operation,Cooperation with others,4.1,No,Yes
+4.7,Setting Out,Site establishment and layout,4.1,No,Yes
+4.8,Safety Procedures,Health and safety requirements,4.1,No,No
+4.9,Quality Assurance,Quality management system,4.1,No,No
+4.10,Site Data,Reliance on site information,1.9,Yes,No
+4.11,Sufficiency of the Accepted Contract Amount,Adequacy of contract sum,1.1,Yes,No
+4.12,Unforeseeable Physical Conditions,Changed site conditions,1.9,Yes,Yes
+4.13,Rights of Way and Facilities,Access and utilities,2.1,Yes,Yes
+4.14,Avoidance of Interference,Minimize disruption,4.6,No,No
+4.15,Access Route,Routes to site,2.1,No,No
+4.16,Transport of Goods,Movement of materials,4.15,No,No
+4.17,Contractor's Equipment,Plant and equipment,4.1,No,No
+4.18,Protection of the Environment,Environmental protection,1.13,No,No
+4.19,Electricity Water and Gas,Provision of utilities,4.13,Yes,No
+4.20,Employer's Equipment and Free-Issue Material,Items provided by employer,4.1,No,No
+4.21,Progress Reports,Regular reporting requirements,8.3,No,Yes
+4.22,Security of the Site,Site security obligations,4.8,No,No
+4.23,Contractor's Operations on Site,Site operations management,4.1,No,Yes
+4.24,Fossils,Discovery of items of value,4.25,No,No
+5.1,General Design Obligations,Design responsibilities,5.2,No,No
+5.2,Contractor's Documents,Submission of drawings,5.1,No,Yes
+5.3,Contractor's Undertaking,Design warranty,5.1,Yes,No
+5.4,Technical Standards and Regulations,Compliance with standards,1.13,No,No
+5.5,Training,Staff training requirements,4.1,No,No
+5.6,As-Built Documents,Record drawings,11.9,No,No
+5.7,Operation and Maintenance Manuals,Documentation provision,11.9,No,No
+5.8,Design Error,Liability for design defects,7.5,Yes,No
+6.1,Engagement of Staff and Labour,Employment obligations,4.1,No,No
+6.2,Rates of Wages and Conditions of Labour,Labour conditions,1.13,No,No
+6.3,Persons in the Service of Employer,Employer's staff,2.3,No,No
+6.4,Labour Laws,Compliance with labour laws,1.13,No,No
+6.5,Working Hours,Hours of work,6.2,No,No
+6.6,Facilities for Staff and Labour,Staff facilities,4.1,No,No
+6.7,Health and Safety,Safety requirements,4.8,No,No
+6.8,Contractor's Superintendence,Site supervision,4.3,No,No
+6.9,Contractor's Personnel,Competency requirements,4.3,No,No
+6.10,Records of Contractor's Personnel and Equipment,Record keeping,4.21,No,No
+6.11,Disorderly Conduct,Conduct requirements,6.7,No,No
+6.12,Foreign Personnel,Expatriate staff,6.1,No,No
+6.13,Supply of Foodstuffs,Catering provisions,6.6,No,No
+6.14,Supply of Water,Water provision,4.19,No,No
+6.15,Measures against Insect and Pest Nuisance,Pest control,4.18,No,No
+6.16,Alcoholic Liquor or Drugs,Substance policy,6.11,No,No
+6.17,Arms and Ammunition,Weapons policy,6.11,No,No
+6.18,Festivals and Religious Customs,Cultural respect,6.5,No,No
+6.19,Funeral Arrangements,Death procedures,6.7,No,No
+6.20,Employer's Equipment and Free-Issue Materials,Use of provided items,4.20,No,No
+6.21,Progress Reports,Reporting on progress,4.21,No,Yes
+6.22,Contractor to Search,Investigation of defects,7.5,Yes,No
+7.1,Manner of Execution,Quality of workmanship,4.9,No,No
+7.2,Samples,Sample submission and approval,7.1,No,Yes
+7.3,Inspection,Quality inspection rights,7.4,No,No
+7.4,Testing,Material and work testing,7.3,Yes,Yes
+7.5,Rejection,Rejection of defective work,7.4,Yes,Yes
+7.6,Remedial Work,Correction of defects,7.5,Yes,Yes
+8.1,Commencement of Works,Start date,2.1,No,Yes
+8.2,Time for Completion,Contract duration,8.1,Yes,Yes
+8.3,Programme,Construction program,8.2,No,Yes
+8.4,Extension of Time for Completion,Time extension entitlement,1.9;8.2,No,Yes
+8.5,Delays Caused by Authorities,Authority-caused delays,8.4,No,Yes
+8.6,Rate of Progress,Progress monitoring,8.3,No,Yes
+8.7,Delay Damages,Liquidated damages,8.2,Yes,Yes
+8.8,Suspension of Work,Work suspension rights,8.9,Yes,Yes
+8.9,Consequences of Suspension,Effects of suspension,8.8,Yes,Yes
+8.10,Payment for Plant and Materials in Event of Suspension,Payment during suspension,8.8;14.5,Yes,No
+8.11,Prolonged Suspension,Extended suspension rights,8.8,Yes,Yes
+8.12,Resumption of Work,Restarting after suspension,8.8,No,Yes
+9.1,Contractor's Obligations,Testing obligations,9.2,No,No
+9.2,Delayed Tests,Impact of test delays,8.4,Yes,Yes
+9.3,Retesting,Repeat testing requirements,9.1,Yes,No
+9.4,Failure to Pass Tests on Completion,Failed completion tests,10.1,No,Yes
+10.1,Taking Over of the Works and Sections,Completion acceptance,10.2,Yes,Yes
+10.2,Taking Over of Parts of the Works,Partial completion,10.1,Yes,Yes
+10.3,Interference with Tests on Completion,Test interference,9.4,Yes,Yes
+11.1,Completion of Outstanding Work and Remedying Defects,Defect rectification,11.2,No,Yes
+11.2,Cost of Remedying Defects,Defect costs,7.6;11.1,Yes,No
+11.3,Extension of Defects Notification Period,DNP extension,11.1,No,Yes
+11.4,Failure to Remedy Defects,Non-compliance with defect rectification,11.1,Yes,No
+11.5,Removal of Defective Work,Removal requirements,7.5,Yes,No
+11.6,Further Tests,Additional testing,9.3,Yes,No
+11.7,Right of Access,Access for defect rectification,11.1,No,No
+11.8,Contractor to Search,Defect investigation,6.22,Yes,No
+11.9,Performance Certificate,Final completion certificate,14.13,Yes,Yes
+11.10,Unfulfilled Obligations,Outstanding obligations,11.1,Yes,No
+11.11,Clearance of Site,Site clearance,11.9,No,Yes
+12.1,Works to be Measured,Measurement basis,12.2,Yes,No
+12.2,Method of Measurement,Measurement rules,12.1,Yes,No
+12.3,Evaluation,Pricing of variations,13.3,Yes,No
+12.4,Omissions,Treatment of omissions,13.1,Yes,No
+13.1,Right to Vary,Variation authority,13.2,Yes,No
+13.2,Value Engineering,Cost reduction proposals,13.1,Yes,No
+13.3,Variation Procedure,Variation process,13.1,Yes,Yes
+13.4,Payment in Applicable Currencies,Currency of payment,14.15,Yes,No
+13.5,Provisional Sums,Use of provisional sums,13.1,Yes,No
+13.6,Daywork,Daywork valuation,12.3,Yes,No
+13.7,Adjustments for Changes in Legislation,Legal change adjustments,1.13,Yes,No
+13.8,Adjustments for Changes in Cost,Price adjustment,14.15,Yes,No
+14.1,The Contract Price,Contract sum definition,14.3,Yes,No
+14.2,Advance Payment,Advance payment provision,14.1,Yes,Yes
+14.3,Application for Interim Payment Certificates,Payment application,14.6,Yes,Yes
+14.4,Schedule of Payments,Payment schedule,14.3,Yes,Yes
+14.5,Plant and Materials intended for the Works,Payment for materials,14.3,Yes,No
+14.6,Issue of Interim Payment Certificates,Payment certification,14.7,Yes,Yes
+14.7,Payment,Payment terms,14.6,Yes,Yes
+14.8,Delayed Payment,Late payment interest,14.7,Yes,No
+14.9,Payment of Retention Money,Retention release,14.3,Yes,Yes
+14.10,Statement at Completion,Completion statement,14.11,Yes,Yes
+14.11,Application for Final Payment Certificate,Final payment application,14.13,Yes,Yes
+14.12,Discharge,Final settlement,14.13,Yes,No
+14.13,Issue of Final Payment Certificate,Final certificate issuance,14.11,Yes,Yes
+14.14,Cessation of Employer's Liability,Limitation of liability,14.13,Yes,No
+14.15,Currencies of Payment,Payment currencies,13.4,Yes,No
+15.1,Notice to Contractor,Termination notice by employer,15.2,Yes,Yes
+15.2,Termination by Employer,Employer's termination rights,15.1,Yes,Yes
+15.3,Valuation at Date of Termination,Termination valuation,15.2,Yes,No
+15.4,Payment after Termination,Post-termination payment,15.3,Yes,Yes
+15.5,Employer's Entitlement to Suspend Payments,Payment suspension,15.2,Yes,No
+16.1,Contractor's Entitlement to Suspend Work,Contractor's suspension rights,16.2,Yes,Yes
+16.2,Termination by Contractor,Contractor's termination rights,16.1,Yes,Yes
+16.3,Cessation of Work and Removal of Contractor's Equipment,Site departure,16.2,No,Yes
+16.4,Payment on Termination,Termination compensation,16.2,Yes,No
+17.1,Indemnities,Indemnity obligations,17.2,Yes,No
+17.2,Contractor's Care of the Works,Care until takeover,17.3,Yes,No
+17.3,Employer's Risks,Risks borne by employer,17.4,Yes,No
+17.4,Consequences of Employer's Risks,Effects of employer risks,17.3,Yes,Yes
+17.5,Intellectual and Industrial Property Rights,IP rights,1.12,Yes,No
+17.6,Limitation of Liability,Liability limits,17.1,Yes,No
+18.1,General Requirements for Insurances,Insurance obligations,18.2,Yes,No
+18.2,Insurance for Works and Contractor's Equipment,Works insurance,18.1,Yes,No
+18.3,Insurance against Injury to Persons and Damage to Property,Liability insurance,18.1,Yes,No
+18.4,Insurance for Contractor's Personnel,Personnel insurance,18.1,Yes,No
+19.1,Definition of Force Majeure,Force majeure definition,19.2,No,No
+19.2,Notice of Force Majeure,Force majeure notification,19.1,Yes,Yes
+19.3,Duty to Minimise Delay,Mitigation obligation,19.2,No,Yes
+19.4,Consequences of Force Majeure,Effects of force majeure,19.2,Yes,Yes
+19.5,Force Majeure Affecting Subcontractor,Subcontractor force majeure,19.1,Yes,Yes
+19.6,Optional Termination Payment and Release,Termination due to force majeure,19.4,Yes,Yes
+19.7,Release from Performance under the Law,Legal release,19.1,Yes,No
+20.1,Contractor's Claims,Claims procedure,20.2,Yes,Yes
+20.2,Appointment of the Dispute Adjudication Board,DAB appointment,20.3,Yes,No
+20.3,Failure to Agree Dispute Adjudication Board,DAB failure,20.2,No,Yes
+20.4,Obtaining Dispute Adjudication Board's Decision,DAB decision,20.5,Yes,Yes
+20.5,Amicable Settlement,Settlement attempts,20.6,No,Yes
+20.6,Arbitration,Arbitration process,20.5,Yes,Yes
+20.7,Failure to Comply with Dispute Adjudication Board's Decision,Non-compliance with DAB,20.4,Yes,No
+20.8,Expiry of Dispute Adjudication Board's Appointment,DAB term expiry,20.2,No,No
